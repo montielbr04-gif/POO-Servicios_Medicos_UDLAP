@@ -1,0 +1,432 @@
+[2025-11-18 12:55:32]
+Usuario: Hola
+Chatbot: Hola, soy el Chatbot Médico de la UDLAP. ¿En qué puedo ayudarte?
+
+[2025-11-18 12:55:43]
+Usuario: Me siento mal
+Chatbot: No entiendo tu consulta. ¿Puedes reformularla?
+
+[2025-11-18 12:56:49]
+Usuario: Tengo tos y fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Has tomado tu temperatura?
+
+[2025-11-18 12:56:56]
+Usuario: no
+Chatbot: No entiendo tu consulta. ¿Puedes reformularla?
+
+[2025-11-18 12:57:01]
+Usuario: hola
+Chatbot: Hola, soy el Chatbot Médico de la UDLAP. ¿En qué puedo ayudarte?
+
+[2025-11-18 12:57:05]
+Usuario: si
+Chatbot: No entiendo tu consulta. ¿Puedes reformularla?
+
+[2025-11-18 13:02:57]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 13:03:01]
+Usuario: Cita médica
+Chatbot: Puedes agendar desde la opción 'Agendar Cita'.
+
+[2025-11-18 13:03:05]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:03:07]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 13:03:08]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-18 13:03:11]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-18 13:03:12]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:03:26]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 13:03:29]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-18 13:03:35]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:03:37]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 13:03:38]
+Usuario: Cita médica
+Chatbot: Puedes agendar desde la opción 'Agendar Cita'.
+
+[2025-11-18 13:03:43]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:03:44]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 13:03:46]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-18 13:03:50]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-18 13:03:53]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:03:57]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 13:03:58]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-18 13:04:49]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 13:05:00]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-18 13:31:12]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 13:31:35]
+Usuario: Cita médica
+Chatbot: Puedes agendar desde la opción 'Agendar Cita'.
+
+[2025-11-18 13:32:10]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 13:32:30]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 13:32:46]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-18 13:33:10]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:50]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 23:08:51]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-18 23:08:52]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-18 23:08:52]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:52]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:52]
+Usuario: Cita médica
+Chatbot: Puedes agendar desde la opción 'Agendar Cita'.
+
+[2025-11-18 23:08:52]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:53]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:53]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-18 23:08:53]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:53]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:53]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-18 23:08:54]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:54]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:55]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-18 23:08:55]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:55]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 23:08:55]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-18 23:08:55]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:55]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:56]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-18 23:08:56]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:08:56]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-18 23:08:59]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-18 23:09:00]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-18 23:09:00]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-11-18 23:09:00]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-18 23:09:00]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-22 18:19:17]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-22 18:19:17]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-22 18:19:18]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-22 18:19:30]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-22 19:29:14]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-22 19:29:14]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-22 19:29:16]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-11-22 19:29:18]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-22 19:29:18]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-22 19:29:20]
+Usuario: Vacunación
+Chatbot: Consulta disponibilidad en la clínica.
+
+[2025-11-22 19:29:20]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-25 12:02:13]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-25 12:02:17]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-25 12:02:19]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-25 12:02:28]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-25 12:13:02]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-25 12:13:02]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-25 12:13:03]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-25 12:13:03]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-25 12:13:04]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-11-25 12:13:04]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-11-25 12:20:53]
+Usuario: Agendar cita
+Chatbot: ¿Qué tipo de cita deseas?
+
+[2025-11-25 12:20:55]
+Usuario: Cita médica
+Chatbot: Puedes agendar desde la opción 'Agendar Cita'.
+
+[2025-11-25 12:20:58]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-11-25 12:20:59]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-11-25 12:21:02]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-11-25 12:21:07]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-11-25 12:21:09]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-12-03 20:54:21]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-12-03 20:54:23]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-12-03 20:54:28]
+Usuario: Sí, agendar cita
+Chatbot: Puedes agendar desde el botón 'Agendar Cita' en tu panel.
+
+[2025-12-03 20:54:45]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-12-03 20:55:22]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-12-03 20:55:23]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-12-03 20:55:25]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-12-03 20:55:26]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-12-03 20:55:42]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-12-03 20:55:43]
+Usuario: Fiebre
+Chatbot: La fiebre puede deberse a infección o deshidratación. ¿Deseas agendar cita?
+
+[2025-12-03 20:55:43]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-12-03 20:55:43]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-12-03 20:55:43]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-12-03 20:55:44]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-12-03 20:55:44]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
+[2025-12-03 20:55:44]
+Usuario: Síntomas
+Chatbot: Selecciona el síntoma más cercano:
+
+[2025-12-03 20:55:44]
+Usuario: Dolor de cabeza
+Chatbot: Un dolor de cabeza puede ser por estrés. ¿Quieres más info?
+
+[2025-12-03 20:55:44]
+Usuario: Sí, más info
+Chatbot: Prueba con analgésicos y descanso. Si empeora, agendar cita.
+
+[2025-12-03 20:55:45]
+Usuario: Volver al inicio
+Chatbot: Volviendo al menú principal.
+
